@@ -1,0 +1,11 @@
+.idea
+*.iml
+.classpath
+.project
+.settings
+.checkstyle
+.DS_Store
+target
+MANIFEST.MF
+.gitlab-ci.yml
+data
